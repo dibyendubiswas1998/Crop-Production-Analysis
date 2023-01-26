@@ -18,7 +18,7 @@ In this dataset, we have approx. 2.5 lakh records with 7 features. Features are 
 * **area:** mention the area unit in hector,
 * **production:** mention the production unit in quintals.<br>
 
-**Data Link:** 
+**Data Link:** https://raw.githubusercontent.com/dibyendubiswas1998/Crop-Production-Analysis/main/DATA/crop_production.csv
 
 
 ### Power BI Code:
