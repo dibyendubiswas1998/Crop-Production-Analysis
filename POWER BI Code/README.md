@@ -1,3 +1,3 @@
 # Dashboard:
 
-![dashboard](https://user-images.githubusercontent.com/67157274/221359565-cececfb3-ea86-4dba-aa7a-1a1cb626ce65.PNG)
+![dashboard](https://user-images.githubusercontent.com/67157274/221362879-b61b951f-4a89-4d69-8218-8d0ddbd0fb5f.PNG)
